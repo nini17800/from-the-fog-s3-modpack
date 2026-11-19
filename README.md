@@ -5,7 +5,7 @@ Modpack d'horreur **Minecraft 1.19.2 / Forge 43.5.1** (48 fichiers : 46 mods + 2
 ## Installation (méthode simple, recommandée)
 
 1. Installe l'application **[CurseForge](https://www.curseforge.com/download/app)**.
-2. Télécharge **[From-The-Fog-S3-1.6.zip](../../raw/main/From-The-Fog-S3-1.6.zip)** (ne le dézippe pas).
+2. Télécharge **[From-The-Fog-S3-1.6.zip](https://github.com/nini17800/from-the-fog-s3-modpack/raw/main/From-The-Fog-S3-1.6.zip)** (ne le dézippe pas).
 3. Dans CurseForge : **Minecraft → Créer un profil personnalisé → Importer** (« Import ») → choisis le zip.
 4. CurseForge télécharge tous les mods tout seul. Clique sur **Jouer**.
 5. Dans Minecraft : **Multijoueur → Ajouter un serveur** → l'adresse que je vous ai envoyée.
